@@ -44,22 +44,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-periasamy.vercel.app/api?username=VSPeriasamy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=VSPeriasamy&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-periasamy.vercel.app/api/top-langs/?username=VSPeriasamy&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🐍 My Contribution Snake
 
 <p align="center">

@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/s-periasamy-066b24232/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;&nbsp;
+
+  <a href="mailto:periasamy2302003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-108981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>&nbsp;&nbsp;
+
+  <a href="https://periasamy.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-108981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>

@@ -73,7 +73,6 @@
 
 ## 📌 Featured Projects
 
-
 ### 📉 Low-Performing Product Analysis
 
 **Tools:** Excel | Pivot Tables | Power Query
@@ -88,7 +87,7 @@ sales performance.
 - Sales Trends
 - Business Insights
 
-🔗 ![Low-Performing Product Analysis](Final_dashboard.png)
+🔗 [Low-Performing Product Analysis](Final_dashboard.png)
 
 
 ### 😊 Customer Feedback Sentiment Analysis
@@ -105,8 +104,7 @@ patterns in customer responses.
 - Positive & Negative Sentiment Trends
 - Business Insights
 
-
-
+[Customer Feedback Sentiment Analysis](./code%201.png)
 
 
 ### 🚚 Supply Chain Bottleneck Analysis
@@ -161,7 +159,7 @@ month-over-month changes and business trends.
 - Sales Trends
 - Window Functions
 
-🔗 [View Final Dashboard](./Final_dashboard.png)
+🔗 ![View Final Dashboard](./Final_dashboard.png)
 
 ---
 

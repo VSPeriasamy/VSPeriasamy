@@ -159,7 +159,7 @@ month-over-month changes and business trends.
 - Sales Trends
 - Window Functions
 
-🔗 [View Final Dashboard](./Final_dashboard.png)
+🔗 [View Final Dashboard](./Screenshot%202026-08-22%20124525.png)
 
 ---
 

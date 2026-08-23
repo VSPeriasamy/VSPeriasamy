@@ -88,7 +88,7 @@ sales performance.
 - Sales Trends
 - Business Insights
 
-🔗 [Final_dashboard.png](#)
+🔗 ![Low-Performing Product Analysis](Final_dashboard.png)
 
 
 ### 😊 Customer Feedback Sentiment Analysis
@@ -105,7 +105,7 @@ patterns in customer responses.
 - Positive & Negative Sentiment Trends
 - Business Insights
 
-[View Project Image](code 1.png)
+
 
 
 
@@ -123,7 +123,8 @@ and areas affecting overall supply chain performance.
 - Operational Trends
 - Business Insights
 
-🔗 [DASHBOARD 1.png](#) [DASHBOARD 2.png](#)
+🔗[View Dashboard](./DASHBOARD%201.png)
+[View Dashboard 2](./DASHBOARD%202.png)
 
 
 ### 🛒 E-commerce Order Analytics
@@ -141,7 +142,8 @@ sales performance, customer behavior and business KPIs.
 - Sales Trends
 - KPI Dashboard
 
-🔗 [Final 1.png](#) [Final 2.png](#)
+🔗 [View Project Image 1](./Final%201.png)
+[View Project Image 2](./Final%202.png)
 
 
 ### 📈 Monthly Sales Growth Analysis
@@ -159,7 +161,7 @@ month-over-month changes and business trends.
 - Sales Trends
 - Window Functions
 
-🔗 [Screenshot 2026-08-22 124525.png](#)
+🔗 [View Final Dashboard](./Final_dashboard.png)
 
 ---
 

@@ -105,7 +105,7 @@ patterns in customer responses.
 - Positive & Negative Sentiment Trends
 - Business Insights
 
-🔗 [code 1.png]
+[View Project Image](code 1.png)
 
 
 

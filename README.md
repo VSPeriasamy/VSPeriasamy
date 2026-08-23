@@ -73,27 +73,99 @@
 
 ## 📌 Featured Projects
 
-### 📊 Sales Performance Dashboard
-**Tools:** Power BI | Excel | Data Analysis
 
-> An interactive dashboard designed to analyze sales performance, KPIs, trends and business insights.
 
 ### 📉 Low-Performing Product Analysis
+
 **Tools:** Excel | Pivot Tables | Power Query
 
-> Analysis focused on identifying low-performing products and understanding sales performance.
+Analysis focused on identifying low-performing products and understanding
+sales performance.
 
-### 🧮 SQL Data Analysis
+**Key Analysis:**
+- Product-wise Sales
+- Category Performance
+- Low-performing Products
+- Sales Trends
+- Business Insights
+
+🔗 [View Project](#)
+
+
+### 😊 Customer Feedback Sentiment Analysis
+
+**Tools:** Python | Pandas | NumPy | NLP
+
+Analyzed customer feedback data to understand sentiment and identify
+patterns in customer responses.
+
+**Key Analysis:**
+- Data Cleaning & Preprocessing
+- Sentiment Classification
+- Customer Feedback Analysis
+- Positive & Negative Sentiment Trends
+- Business Insights
+
+🔗 [View Project](#)
+
+
+### 🚚 Supply Chain Bottleneck Analysis
+
+**Tools:** Tableau | Excel
+
+Analyzed supply chain data to identify bottlenecks, operational issues
+and areas affecting overall supply chain performance.
+
+**Key Analysis:**
+- Supply Chain Performance
+- Bottleneck Identification
+- Delivery Analysis
+- Operational Trends
+- Business Insights
+
+🔗 [View Project](#)
+
+
+### 🛒 E-commerce Order Analytics
+
+**Tools:** Power BI | Power Query | DAX
+
+Built an interactive Power BI dashboard to analyze e-commerce orders,
+sales performance, customer behavior and business KPIs.
+
+**Key Analysis:**
+- Total Sales & Orders
+- Customer Analysis
+- Product Performance
+- Category Analysis
+- Sales Trends
+- KPI Dashboard
+
+🔗 [View Project](#)
+
+
+### 📈 Monthly Sales Growth Analysis
+
 **Tools:** SQL | PostgreSQL
 
-> Practical SQL analysis using JOINs, GROUP BY, HAVING, CTEs and Window Functions.
+Analyzed monthly sales performance to identify growth patterns,
+month-over-month changes and business trends.
 
+**Key Analysis:**
+- Monthly Sales
+- Month-over-Month Growth
+- Previous Month Comparison
+- Growth Percentage
+- Sales Trends
+- Window Functions
+
+🔗 [View Project](#)
 ---
 
 ## 🎯 Currently Learning
 
 ```text
-SQL & Advanced SQL
+SQL Query, Connect To Powerbi To Create Dashboard
         ↓
 Data Cleaning
         ↓

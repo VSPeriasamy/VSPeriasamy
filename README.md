@@ -105,7 +105,7 @@ patterns in customer responses.
 - Positive & Negative Sentiment Trends
 - Business Insights
 
-🔗 [code 1.png , code 2.png , code 3.png, code 4.png](#)
+🔗 [code 1.png](#)
 
 
 
@@ -123,7 +123,7 @@ and areas affecting overall supply chain performance.
 - Operational Trends
 - Business Insights
 
-🔗 [DASHBOARD 1.png] , [DASHBOARD 2.png](#)
+🔗 [DASHBOARD 1.png](#) [DASHBOARD 2.png](#)
 
 
 ### 🛒 E-commerce Order Analytics
@@ -141,7 +141,7 @@ sales performance, customer behavior and business KPIs.
 - Sales Trends
 - KPI Dashboard
 
-🔗 [Final 1.png] [Final 2.png](#)
+🔗 [Final 1.png](#) [Final 2.png](#)
 
 
 ### 📈 Monthly Sales Growth Analysis

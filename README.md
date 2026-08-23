@@ -74,7 +74,6 @@
 ## 📌 Featured Projects
 
 
-
 ### 📉 Low-Performing Product Analysis
 
 **Tools:** Excel | Pivot Tables | Power Query
@@ -89,7 +88,7 @@ sales performance.
 - Sales Trends
 - Business Insights
 
-🔗 [View Project](#)
+🔗 [Final_dashboard.png](#)
 
 
 ### 😊 Customer Feedback Sentiment Analysis
@@ -106,7 +105,8 @@ patterns in customer responses.
 - Positive & Negative Sentiment Trends
 - Business Insights
 
-🔗 [View Project](#)
+🔗 [code 1.png , code 2.png , code 3.png, code 4.png](#)
+
 
 
 ### 🚚 Supply Chain Bottleneck Analysis
@@ -123,7 +123,7 @@ and areas affecting overall supply chain performance.
 - Operational Trends
 - Business Insights
 
-🔗 [View Project](#)
+🔗 [DASHBOARD 1.png] , [DASHBOARD 2.png](#)
 
 
 ### 🛒 E-commerce Order Analytics
@@ -141,7 +141,7 @@ sales performance, customer behavior and business KPIs.
 - Sales Trends
 - KPI Dashboard
 
-🔗 [View Project](#)
+🔗 [Final 1.png] [Final 2.png](#)
 
 
 ### 📈 Monthly Sales Growth Analysis
@@ -159,13 +159,14 @@ month-over-month changes and business trends.
 - Sales Trends
 - Window Functions
 
-🔗 [View Project](#)
+🔗 [Screenshot 2026-08-22 124525.png](#)
+
 ---
 
 ## 🎯 Currently Learning
 
 ```text
-SQL Query, Connect To Powerbi To Create Dashboard
+SQL Query, Connect To PowerBi To Create Dashboard
         ↓
 Data Cleaning
         ↓

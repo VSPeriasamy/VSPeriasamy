@@ -55,7 +55,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/s-periasamy-066b24232/" target="_blank">
+<a href="https://www.linkedin.com/in/periasamy-v-s-066b24232/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
